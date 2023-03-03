@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **Matsko3/Matsko3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/546365344433045517?idleMessage=Your%20Mom)](https://discord.com/users/546365344433045517)
