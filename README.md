@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/546365344433045517?idleMessage=Your%20Mom&hideDiscrim=true)](https://discord.com/users/546365344433045517)
+[![Discord Presence](https://api.lanyard.rest/v1/users/546365344433045517/?idleMessage=Your%20Mom&hideDiscrim=true)](https://discord.com/users/546365344433045517)
