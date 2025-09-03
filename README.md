@@ -4,9 +4,10 @@ About Me
 -->
   <img align="right" src="https://lanyard.cnrad.dev/api/546365344433045517?bg=ffe9f6" alt="Discord Status">
   
-  - I LOVE ELYSIA.
-  - Owner of [ElysiaOS](https://www.elysiaos.live).
-  - Too poor to afford SSS Elysia but will still happen someday.
+  - I LOVE ELYSIA!
+  - Owner of [ElysiaOS](https://www.elysiaos.live)
+  - Too poor to afford SSS Elysia but will still happen someday
+  - [Support Me](https://ko-fi.com/matsuko3)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matsko3&theme=omni&layout=compact&bg_color=00000000)
 
